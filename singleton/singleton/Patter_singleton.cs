@@ -6,20 +6,24 @@ using System.Threading.Tasks;
 
 namespace singleton
 {
-    internal class SSSsingleton
-    {
-        private static SSSsingleton instance;
+    internal class MySingleton
+	{
+		private static MySingleton _instance;
+		private MySingleton()
+		{
+			
+		}
 
-        public static SSSsingleton Instance
-        {
-            get
-            {
-                if (instance == null)
-                {
-                    instance = new SSSsingleton();
-                }
-                return instance;
-            }
-        }
-    }
+		public static MySingleton Instance
+		{
+			get
+			{
+				if (_instance == null)
+				{
+					_instance = new MySingleton();
+				}
+				return _instance;
+			}
+		}
+	}
 }

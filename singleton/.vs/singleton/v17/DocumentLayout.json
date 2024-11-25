@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\All_singleton\\singleton\\",
+  "WorkspaceRootPath": "C:\\Users\\Ruslan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\All_singleton\\singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\all_singleton\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ruslan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\All_singleton\\singleton\\singleton\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:singleton\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|d:\\all_singleton\\singleton\\singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA8EBE12-3A11-424C-8AEA-C5DB4C905343}|singleton\\singleton.csproj|solutionrelative:singleton\\patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ruslan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\All_singleton\\singleton\\singleton\\Patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:singleton\\Patter_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,22 +24,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Patter_singleton.cs",
-              "DocumentMoniker": "D:\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
               "RelativeDocumentMoniker": "singleton\\Patter_singleton.cs",
-              "ToolTip": "D:\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\All_singleton\\singleton\\singleton\\Patter_singleton.cs",
               "RelativeToolTip": "singleton\\Patter_singleton.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:15:32.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T13:15:32.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeDocumentMoniker": "singleton\\Program.cs",
-              "ToolTip": "D:\\All_singleton\\singleton\\singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\All_singleton\\singleton\\singleton\\Program.cs",
               "RelativeToolTip": "singleton\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
